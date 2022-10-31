@@ -10,3 +10,5 @@ Here are some of the design philosophies and packages/frameworks used in the dev
 * 
 
 And, of course, here's the link to this awesome website: http://yelpcamp-zp.herokuapp.com/
+
+NOTE: If you wish to add your own campgrounds and reviews, you must first register an account.  From there, you may also edit or delete such elements.
