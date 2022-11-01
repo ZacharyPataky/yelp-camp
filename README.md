@@ -7,7 +7,7 @@ YelpCamp is the capstone project included in Colt Steele's Web Developer Bootcam
 
 Here are some of the packages/frameworks used in the development of this website:
 
-* Bootstrap - Bootstrap is a free front-end framework for faster and easier web development.  It includes HTML- and CSS-based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, and others, many of which are featured in YelpCamp.  For example, the "card" layout depicting each campground on the "campgrounds" page is a Bootstrap "card" with specialized sections for content.  Another example of bootstrap is the clean and responsive navigation bar.
+* 'Bootstrap' - Bootstrap is a free front-end framework for faster and easier web development.  It includes HTML- and CSS-based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, and others, many of which are featured in YelpCamp.  For example, the "card" layout depicting each campground on the "campgrounds" page is a Bootstrap "card" with specialized sections for content.  Another example of bootstrap is the clean and responsive navigation bar.
 
 * Cloudinary -  Cloudinary is a SaaS cloud-based image and video management service.  Instead of having to save and load every image uploaded by users (which would amount to many images and a desperately slow application), we instead call images saved online in our Cloudinary account.  It's faster, lighter, and much more robust overall.
 
